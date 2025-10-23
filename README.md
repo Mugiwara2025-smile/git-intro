@@ -2,3 +2,4 @@
 Test push for checker
 Test push for checker
 Test push for checker
+Test push authentication
